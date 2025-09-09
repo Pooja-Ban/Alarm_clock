@@ -17,4 +17,5 @@ Features
 How to Run
 
 git clone https://github.com/Pooja-Ban/Alarm_clock.git
+
 cd Alarm_clock
